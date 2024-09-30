@@ -1,4 +1,4 @@
-
+<!-- About Me Section -->
 # 🐱‍🚀 Rick Ninja!, Hi There!🐣
 
 **`DATA SCIENCE STORYTELLER`**
@@ -17,7 +17,7 @@ I'm a Data Scientist enthusiast on a mission to unravel the hidden stories withi
 </p>
 
 ---
-
+<!-- Language and Tools Section -->
 ### 🧰 Languages and Tools 
 
 <img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -36,6 +36,23 @@ I'm a Data Scientist enthusiast on a mission to unravel the hidden stories withi
 
 #
 
+<!-- My Projects Section -->
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/equivocal-richie/CODSOFT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/equivocal-richie/credit-card-fraud-detection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
+
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
+
+
+<!-- Summarized Statisctics Section -->
 ### 📊 Stats
 
 <p>
