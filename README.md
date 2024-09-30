@@ -43,7 +43,7 @@ I'm a Data Scientist enthusiast on a mission to unravel the hidden stories withi
   
   ![Rick-Ninja Github Stats](https://github-readme-stats.vercel.app/api?username=equivocal-richie&show_icons=true&theme=gotham)
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=equivocal-richie&theme=gruvbox&border_radius=4.5)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=equivocal-richie&theme=gotham&border_radius=4.5)
 
 </p>
 
