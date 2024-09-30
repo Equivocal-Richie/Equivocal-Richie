@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# 🐱‍🚀 Rick Ninja!
+# 🐱‍🚀 Rick Ninja!, Hi There!🐣
 
 **`DATA SCIENCE STORYTELLER`**
 
