@@ -6,10 +6,17 @@
 
 I'm a Data Scientist enthusiast on a mission to unravel the hidden stories within data. Currently diving deep into the world of data science, eager to transform raw information into actionable insights. When I'm not exploring datasets, you can find me quoting Rick Sanchez or trying to outsmart my favorite algorithm. Let's turn data into a beautiful adventure together!
 
-
 <p align=center;>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpkZ293OXNjYzBreWR5N3Z5cjZodm5tNHl6M3hobzk1N3k3am0xaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MEM0K35P4iC70rCNSo/giphy.gif" alt="Your image description" style="width: 45%; height: 40%;">
 </p>
+
+<p align="center"> 
+  <a href="https://github.com/equivocal-richie?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/equivocal-richie?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/equivocal-richie1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/equivocal-richie?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
 ---
 
 ### 🧰 Languages and Tools 
