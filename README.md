@@ -42,6 +42,8 @@ I'm a Data Scientist enthusiast on a mission to unravel the hidden stories withi
 <details open> 
   <summary><h2>📘 My Top Data Science Projects</h2></summary>
   <p align="left">
+    <a href="https://github.com/Equivocal-Richie/Get-Schwifty-SQL">
+      <img width="278" height="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=Get-Schwifty-SQL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Credit-Card-Fraud-Detection"></a>
     <a href="https://github.com/equivocal-richie/CODSOFT">
       <img width="278" height="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=CODSOFT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Codsoft-Datascience-Projects"></a>
     <a href="https://github.com/equivocal-richie/credit-card-fraud-detection">
