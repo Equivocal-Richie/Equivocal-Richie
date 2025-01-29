@@ -1,14 +1,18 @@
 <!-- About Me Section -->
 # 🐱‍🚀 Rick Ninja!, Hi There!🐣
 
-**`DATA SCIENCE STORYTELLER`**
+**`DATA SCIENCE STORYTELLER`** 
+**`DATA ENTHUSIAST`**
 
 I'm a Data Scientist enthusiast on a mission to unravel the hidden stories within data. Currently diving deep into the world of data science, eager to transform raw information into actionable insights. When I'm not exploring datasets, you can find me quoting Rick Sanchez or trying to outsmart my favorite algorithm. Let's turn data into a beautiful adventure together!
 
-<p align=center;>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpkZ293OXNjYzBreWR5N3Z5cjZodm5tNHl6M3hobzk1N3k3am0xaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MEM0K35P4iC70rCNSo/giphy.gif" alt="Your image description" style="width: 45%; height: 40%;">
+
+<p>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFpcTdib3NudjZveGR5a2ltNHhiY3A2eHNvZGhxeTQwbHltaWE5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VJByz3JRd4EWxzronw/giphy.gif" alt="Your image description" style="width: 45%; height: 40%; border-radius: 50%;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzV4aXFicXFjNGJ4bDhheG1ycjg5MDA3bWs2YnY4d2JyOXB4bTNzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Maa9hk7EUoohrWubag/giphy.gif" alt="Your image description" style="width: 45%; height: 40%; border-radius: 50%;">
 </p>
 
+</br>
 <p align="center"> 
   <a href="https://github.com/equivocal-richie?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/equivocal-richie?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
