@@ -9,8 +9,8 @@ I'm a Data Scientist enthusiast on a mission to unravel the hidden stories withi
 > "Sometimes science is more art than science, Morty. A lot of people don't get that." - Rick Sanchez 🥼🔬
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFpcTdib3NudjZveGR5a2ltNHhiY3A2eHNvZGhxeTQwbHltaWE5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VJByz3JRd4EWxzronw/giphy.gif" alt="Rick and Morty GIF" style="width: 45%; height: 40%; border-radius: 50%;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzV4aXFicXFjNGJ4bDhheG1ycjg5MDA3bWs2YnY4d2JyOXB4bTNzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Maa9hk7EUoohrWubag/giphy.gif" alt="Rick and Morty GIF" style="width: 45%; height: 40%; border-radius: 50%;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFpcTdib3NudjZveGR5a2ltNHhiY3A2eHNvZGhxeTQwbHltaWE5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VJByz3JRd4EWxzronw/giphy.gif" alt="Rick and Morty GIF" width="45%" height="40%" style="border-radius: 50%;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzV4aXFicXFjNGJ4bDhheG1ycjg5MDA3bWs2YnY4d2JyOXB4bTNzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Maa9hk7EUoohrWubag/giphy.gif" alt="Rick and Morty GIF" width="45%" height="40%" style="border-radius: 50%;">
 </p>
 
 </br>
@@ -22,39 +22,37 @@ I'm a Data Scientist enthusiast on a mission to unravel the hidden stories withi
 </p>
 
 ---
-<!-- Language and Tools Section -->
+<!-- Languages and Tools Section -->
 ### 🧰 Languages and Tools 
 
-<p align="left">
-<img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Numpy" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
-<img align="left" alt="Jupyter" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="Pandas" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-<img align="left" alt="Matplotlib" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-<img align="left" alt="SQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Bootstrap" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
-<img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-<img align="left" alt="Bash" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="50px" height="50px" style="padding-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="50px" height="50px" style="padding-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50px" height="50px" style="padding-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="50px" height="50px" style="padding-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50px" height="50px" style="padding-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="50px" height="50px" style="padding-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50px" height="50px" style="padding-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="50px" height="50px" style="padding-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="50px" height="50px" style="padding-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50px" height="50px" style="padding-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="50px" height="50px" style="padding-right:15px;" />
 </p>
-<br /><br />
 
 ---
 
 <!-- My Projects Section -->
 <details open> 
   <summary><h2>📘 My Top Data Science & Analysis Projects 💥 </h2></summary>
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/Equivocal-Richie/Get-Schwifty-SQL">
-      <img width="278" height="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=Get-Schwifty-SQL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Get Schwifty SQL"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=Get-Schwifty-SQL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Get Schwifty SQL" width="45%"></a>
     <a href="https://github.com/equivocal-richie/CODSOFT">
-      <img width="278" height="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=CODSOFT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CODSOFT"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=CODSOFT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CODSOFT" width="45%"></a>
     <a href="https://github.com/equivocal-richie/credit-card-fraud-detection">
-      <img width="278" height="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=credit-card-fraud-detection&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Credit Card Fraud Detection"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=credit-card-fraud-detection&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Credit Card Fraud Detection" width="45%"></a>
     <a href="https://github.com/Equivocal-Richie/Healthcare_Data_Analysis-SLC-">
-      <img width="278" height="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=Healthcare_Data_Analysis-SLC-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Healthcare Data Analysis"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=Healthcare_Data_Analysis-SLC-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Healthcare Data Analysis" width="45%"></a>
   </p>
 
   <p align="center">
