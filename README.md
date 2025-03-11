@@ -14,12 +14,14 @@ I'm a Data Scientist enthusiast on a mission to unravel the hidden stories withi
 </p>
 
 </br>
+<!--
 <p align="center"> 
   <a href="https://github.com/equivocal-richie?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/equivocal-richie?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/equivocal-richie?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/equivocal-richie?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+-->
 
 ---
 <!-- Languages and Tools Section -->
@@ -67,8 +69,8 @@ I'm a Data Scientist enthusiast on a mission to unravel the hidden stories withi
 
 <p align="center">
   <img alt="Rick-Ninja Github Stats" src="https://github-readme-stats.vercel.app/api?username=equivocal-richie&show_icons=true&theme=gotham" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=equivocal-richie&theme=gotham&border_radius=4.5" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=equivocal-richie&layout=compact&theme=gotham" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=equivocal-richie&theme=gotham&border_radius=4.5" />
 </p>
 
 ---
