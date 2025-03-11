@@ -71,6 +71,16 @@ I'm a Data Scientist enthusiast on a mission to unravel the hidden stories withi
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=equivocal-richie&layout=compact&theme=gotham" />
 </p>
 
+---
+<!-- Social Media Links Section -->
+### 🌐 Connect with me
+
+<p align="center">
+  <a href="https://richardmuchoki.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio_Website"></a>
+  <a href="https://www.linkedin.com/in/richard-muchoki-2408b7205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/richardmuchoki" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
+
 <!--
 <details>
  <summary><h3>Coding Journey</h3></summary>
