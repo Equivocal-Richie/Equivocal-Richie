@@ -78,7 +78,7 @@ I'm a Data Scientist enthusiast on a mission to unravel the hidden stories withi
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://richardmuchoki.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio_Website"></a>
+  <a href="https://richardmuchoki.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=blue" alt="Portfolio_Website"></a>
   <a href="https://www.linkedin.com/in/richard-muchoki-2408b7205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/richardmuchoki" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
