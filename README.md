@@ -45,16 +45,16 @@ I'm a Data Scientist enthusiast on a mission to unravel the hidden stories withi
 
 <!-- My Projects Section -->
 <details open> 
-  <summary><h2>📘 My Top Data Science & Analysis Projects 💥 </h2></summary>
+  <summary><h2>📘 My Top Data Science Projects 💥 </h2></summary>
   <p align="center">
     <a href="https://github.com/Equivocal-Richie/Get-Schwifty-SQL">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=Get-Schwifty-SQL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Get Schwifty SQL" width="45%"></a>
     <a href="https://github.com/equivocal-richie/CODSOFT">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=CODSOFT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CODSOFT" width="45%"></a>
-    <a href="https://github.com/equivocal-richie/credit-card-fraud-detection">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=credit-card-fraud-detection&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Credit Card Fraud Detection" width="45%"></a>
-    <a href="https://github.com/Equivocal-Richie/Healthcare_Data_Analysis-SLC-">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=Healthcare_Data_Analysis-SLC-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Healthcare Data Analysis" width="45%"></a>
+    <a href="https://github.com/equivocal-richie/Air-Quality-Project">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=Air-Quality-Project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Air Quality Project" width="45%"></a>
+    <a href="https://github.com/Equivocal-Richie/Spotify-Dataset-Analysis">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=Spotify-Dataset-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Spotify Dataset Analysis" width="45%"></a>
   </p>
 
   <p align="center">
