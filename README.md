@@ -47,10 +47,6 @@ I'm a Data Scientist enthusiast on a mission to unravel the hidden stories withi
 <details open> 
   <summary><h2>📘 My Top Data Science Projects 💥 </h2></summary>
   <p align="center">
-    <!--- <a href="https://github.com/Equivocal-Richie/Get-Schwifty-SQL">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=Get-Schwifty-SQL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Get Schwifty SQL" width="45%"></a>
-    <a href="https://github.com/equivocal-richie/CODSOFT">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=CODSOFT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CODSOFT" width="45%"></a> -->
     <a href="https://github.com/equivocal-richie/Air-Quality-Project">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=equivocal-richie&repo=Air-Quality-Project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Air Quality Project" width="45%"></a>
     <a href="https://github.com/Equivocal-Richie/Spotify_Dataset_Analysis">
