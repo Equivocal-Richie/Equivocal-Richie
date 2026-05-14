@@ -4,7 +4,7 @@
 **`DATA SCIENCE STORYTELLER`** 
 **`DATA ENTHUSIAST`**
 
-I'm a Data Scientist enthusiast on a mission to unravel the hidden stories within data. Currently diving deep into the world of data science, eager to transform raw information into actionable insights. When I'm not exploring datasets, you can find me quoting Rick Sanchez or trying to outsmart my favorite algorithm. Let's turn data into a beautiful adventure together!
+I'm a Software Developer & Data Scientist on a mission to unravel the hidden stories within data. Currently diving deep into the world of data, eager to transform raw information into actionable insights. When I'm not exploring datasets, you can find me quoting Rick Sanchez or trying to outsmart my favorite algorithm. Let's turn data into a beautiful adventure together!
 
 > "Sometimes science is more art than science, Morty. A lot of people don't get that." - Rick Sanchez 🥼🔬
 
