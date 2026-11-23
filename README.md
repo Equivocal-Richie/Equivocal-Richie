@@ -64,7 +64,7 @@ I'm a Software Developer & Data Scientist on a mission to unravel the hidden sto
 ### 📊 Stats
 
 <p align="center">
-  <img alt="Rick-Ninja Github Stats" src="https://github-readme-stats.vercel.app/api?username=equivocal-richie&show_icons=true&theme=gotham" />
+  <img alt="Rick-Ninja Stats" src="https://github-readme-stats.vercel.app/api?username=equivocal-richie&show_icons=true&theme=gotham" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=equivocal-richie&layout=compact&theme=gotham" />
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=equivocal-richie&theme=gotham&border_radius=4.5" />
 </p>
